@@ -15,6 +15,15 @@ embedding_size = 100
 epochs = 1
 batch_size = 512
 
+'''
+TODO:
+    - Negative Sampling
+    - SkipGram vs CBOW
+    - Agparse
+    - word_min_count
+    - Number Normalization
+'''
+
 
 def clean(line):
     line = re.sub('[^ء-ي0-9 ]+', '', line)
