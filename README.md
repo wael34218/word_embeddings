@@ -1,4 +1,4 @@
-# Word Embedding Simple Representation
+# Simple Word Embedding Implementation
 
 
 ## Introduction
