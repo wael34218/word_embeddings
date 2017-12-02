@@ -20,7 +20,8 @@ batch_size = 512
 TODO:
     - Negative Sampling
     - SkipGram vs CBOW
-    - Agparse
+    - Class with sklearn interface
+    - Accept command parameters
 '''
 
 
